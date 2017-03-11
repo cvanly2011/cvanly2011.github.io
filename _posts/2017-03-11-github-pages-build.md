@@ -3,7 +3,7 @@ layout: post
 title: Markdown语法简要规则
 categories: Markdown
 description: Markdown语法简要规则
-keywords: Markdown
+keywords: Markdown,语法
 ---
 
 ## 前言
