@@ -19,7 +19,7 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/cvanly2011)
+* GitHub：[@cvanly2011](https://github.com/cvanly2011)
 
 
 ## Skill Keywords
