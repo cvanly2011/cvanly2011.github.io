@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 在北京奋斗的码上青年
+keywords: Cvanly Chen, 陈亚磊
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是陈亚磊，一个在北京奋斗的码上青年。
 
-仰慕「优雅编码的艺术」。
+愿在这里记录自己的开发笔记及日常。
 
 ## 坚信
 
@@ -19,13 +19,8 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* 掘金：[@mzlogin](http://gold.xitu.io/user/570ddaeb2e958a005c63b2da)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
-* 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
+* GitHub：[@mzlogin](https://github.com/cvanly2011)
+
 
 ## Skill Keywords
 
