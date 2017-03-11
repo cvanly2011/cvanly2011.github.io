@@ -96,8 +96,8 @@ github_username: cvanly2011
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: cvanly2011
-disqus_username: cvanly2011
+duoshuo_username: cvanly
+disqus_username: cvanly
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
 
