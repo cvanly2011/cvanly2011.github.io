@@ -47,3 +47,20 @@ layout: default
 </div>
 </section>
 <!-- /section.content -->
+
+<!-- gitment评论 -->
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'cvanly2011',
+    repo: 'https://github.com/cvanly2011/cvanly2011.github.io.git',
+    oauth: {
+        client_id: '03b2fd3b0ebfb6556faa',
+        client_secret: '7bc4b6171fb0660d616c353074cdda2287c7d0ec',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
+<!-- gitment评论 -->
