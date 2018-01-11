@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 在北京奋斗的码上青年
+description: 北漂码农
 keywords: Cvanly Chen, 陈亚磊
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是陈亚磊，一个在北京奋斗的码上青年。
+我是Cvanly Chen，一个在北京奋斗的码上青年。
 
 愿在这里记录自己的开发笔记及日常。
 

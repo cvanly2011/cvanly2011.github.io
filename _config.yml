@@ -5,7 +5,7 @@ baseurl:
 url: http://cvanly2011.github.io
 date_format: "ordinal"
 title: Hello Code
-subtitle: "一个码农的自我救赎"
+subtitle: "陈亚磊的Blog"
 description: "陈亚磊的个人博客"
 keywords: Java, 程序员, 陈亚磊
 favicon: /favicon.ico
@@ -110,6 +110,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, Spring,Docker,Kubernetes, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_software_keywords: [Java, Spring,Spring boot,Spring cloud,Elasticsearch,Docker,Kubernetes ]
+# skill_mobile_app_keywords: [Android, Reverse Engineering]
+# skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
