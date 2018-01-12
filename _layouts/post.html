@@ -64,3 +64,8 @@ var gitment = new Gitment({
 gitment.render('gitmentContainer');
 </script> -->
 <!-- gitment评论 -->
+
+<!-- intensedebate comment-->
+{% if site.intensedebate_comments %}
+  {% include intensedebate-comments.html %}
+{% endif %}

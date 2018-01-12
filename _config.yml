@@ -113,3 +113,5 @@ google:
 skill_software_keywords: [Java, Spring,Spring boot,Spring cloud,Elasticsearch,Docker,Kubernetes ]
 # skill_mobile_app_keywords: [Android, Reverse Engineering]
 # skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+
+intensedebate_comments: true
