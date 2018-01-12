@@ -37,7 +37,16 @@ layout: default
       {% include sns-share.html %}
     </div>
     <div class="comment">
-      {% include comments.html %}
+      <!-- {% include comments.html %} -->
+      {% if page.comments != false %}
+        <script>
+        var idcomments_acct = 'cacc5128f4aecc381b75d6caa2ba4075';
+        var idcomments_post_id = '{{ page.url }}'
+        var idcomments_post_url;
+        </script>
+        <span id="IDCommentsPostTitle" style="display:none"></span>
+        <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+      {% endif %}
     </div>
   </div>
   <div class="column one-fourth">
@@ -66,12 +75,3 @@ gitment.render('gitmentContainer');
 <!-- gitment评论 -->
 
 <!-- intensedebate comment-->
-{% if page.comments != false %}
-  <script>
-  var idcomments_acct = 'cacc5128f4aecc381b75d6caa2ba4075';
-  var idcomments_post_id = '{{ page.url }}'
-  var idcomments_post_url;
-  </script>
-  <span id="IDCommentsPostTitle" style="display:none"></span>
-  <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
-{% endif %}
